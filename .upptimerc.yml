@@ -20,6 +20,7 @@ assignees:
 status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/usevital/uptime/refs/heads/master/assets/vital.png
+  favicon: https://raw.githubusercontent.com/usevital/uptime/refs/heads/master/assets/vital.png
   name: Vital Projects Uptime
   navbar:
     - title: Status
