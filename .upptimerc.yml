@@ -22,6 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/usevital/uptime/refs/heads/master/assets/vital.png
   favicon: https://raw.githubusercontent.com/usevital/uptime/refs/heads/master/assets/vital.png
   name: Vital Projects Uptime
+  introTitle: "Status page for Vital-related projects."
   navbar:
     - title: Status
       href: /uptime
