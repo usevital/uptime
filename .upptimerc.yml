@@ -8,9 +8,9 @@ sites:
   - name: NotEssential Website
     url: https://notessential.blurry.gay/
     icon: https://raw.githubusercontent.com/usevital/uptime/refs/heads/master/assets/ne.png
-  - name: Ward Website
-    url: https://ward.worldwidepixel.ca/
-    icon: https://raw.githubusercontent.com/usevital/uptime/refs/heads/master/assets/ward.png
+#  - name: Ward Website
+#    url: https://ward.worldwidepixel.ca/
+#    icon: https://raw.githubusercontent.com/usevital/uptime/refs/heads/master/assets/ward.png
 
 assignees:
   - Nitrrine
