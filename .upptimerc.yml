@@ -1,5 +1,6 @@
 owner: usevital
 repo: uptime
+user-agent: usevital
 
 sites:
   - name: Vital Website
