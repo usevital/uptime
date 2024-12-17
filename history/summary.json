@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 210,
-    "timeWeek": 100,
-    "timeMonth": 115,
-    "timeYear": 115,
+    "time": 116,
+    "timeDay": 179,
+    "timeWeek": 106,
+    "timeMonth": 116,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 695,
-    "timeWeek": 485,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "time": 435,
+    "timeDay": 472,
+    "timeWeek": 456,
+    "timeMonth": 435,
+    "timeYear": 435,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Ward Website",
+    "url": "https://ward.worldwidepixel.ca/",
+    "icon": "https://raw.githubusercontent.com/usevital/uptime/refs/heads/master/assets/ward.png",
+    "slug": "ward-website",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 107,
+    "timeDay": 235,
+    "timeWeek": 235,
+    "timeMonth": 107,
+    "timeYear": 107,
+    "dailyMinutesDown": {
+      "2024-11-29": 366,
+      "2024-11-28": 34
+    }
   }
 ]
