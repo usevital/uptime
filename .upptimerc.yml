@@ -26,7 +26,9 @@ status-website:
   name: Vital Projects Uptime
   introTitle: "Status page for Vital-related projects."
   navbar:
+    - title: Home
+      href: /
     - title: Status
       href: /uptime
-    - title: GitHub
+    - title: GitHub source
       href: https://github.com/$OWNER/$REPO
