@@ -30,5 +30,5 @@ status-website:
       href: https://usevital.github.io/
     - title: Status
       href: /uptime
-    - title: GitHub source
+    - title: GitHub
       href: https://github.com/$OWNER/$REPO
