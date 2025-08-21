@@ -14,9 +14,7 @@ sites:
     icon: https://raw.githubusercontent.com/usevital/uptime/refs/heads/master/assets/ward.png
 
 assignees:
-  - Nitrrine
   - KTrain5169
-  - worldwidepixel
   - blryface
 
 status-website:
