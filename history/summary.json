@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 95,
-    "timeWeek": 130,
-    "timeMonth": 137,
+    "timeDay": 64,
+    "timeWeek": 128,
+    "timeMonth": 134,
     "timeYear": 122,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://raw.githubusercontent.com/usevital/uptime/refs/heads/master/assets/ne.png",
     "slug": "not-essential-website",
     "status": "up",
-    "uptime": "82.11%",
+    "uptime": "82.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "82.11%",
-    "time": 458,
-    "timeDay": 502,
-    "timeWeek": 516,
-    "timeMonth": 502,
-    "timeYear": 458,
+    "uptimeYear": "82.14%",
+    "time": 459,
+    "timeDay": 854,
+    "timeWeek": 578,
+    "timeMonth": 510,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2025-11-18": 133,
       "2025-10-16": 11,
@@ -117,14 +117,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.89%",
-    "time": 184,
-    "timeDay": 129,
-    "timeWeek": 164,
-    "timeMonth": 205,
+    "time": 183,
+    "timeDay": 154,
+    "timeWeek": 160,
+    "timeMonth": 203,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-11-18": 158,
-      "2024-11-29": 366
+      "2025-11-18": 158
     }
   }
 ]
